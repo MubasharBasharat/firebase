@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Center(child: Text('Splash Screen'),)
+          Center(child: Text('Splash '),)
         ],
       ),
     );;
